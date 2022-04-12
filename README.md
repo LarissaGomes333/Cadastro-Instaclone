@@ -1,7 +1,7 @@
 # Cadastro-Instaclone
 
 # Proposta do Projeto
-  A proposta do projeto é clona a página inicial do Instagram.
+  A proposta do projeto é clonar a interface do Instagram.
   
 # Ferramentas utilizadas
  HTML, CSS, JavaScript e React.js.
